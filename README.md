@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm Topper Kain
+I write code for a living, but mostly for people who won't let me put it here.
+
+I'm on twitter here: https://twitter.com/HeyTopper
+
+
 
 <!--
 **TopperKain/topperkain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
